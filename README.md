@@ -55,7 +55,8 @@ These projects demonstrate model design, training workflows, and evaluation meth
 Clone the repo and open either notebook:
 
 ```bash
-git clone https://github.com/yourusername/LeNet_ImageClassification_TF.git
+git clone https://github.com/ShridharPol/LeNet_ImageClassification_TF.git
 cd LeNet_ImageClassification_TF
 jupyter notebook
+
 
