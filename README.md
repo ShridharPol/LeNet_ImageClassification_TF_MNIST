@@ -41,8 +41,8 @@ These projects demonstrate model design, training workflows, and evaluation meth
 ---
 
 ## 🛠 Tools & Libraries
-- Python 3.x
-- TensorFlow 2.x / Keras
+- Python
+- TensorFlow / Keras
 - NumPy
 - Matplotlib
 - Jupyter Notebook
