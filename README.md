@@ -1,4 +1,3 @@
-# LeNet_ImageClassification_TF_MNIST
 # LeNet-Based Image Classification on MNIST and CIFAR-10
 
 This repository contains two well-documented Jupyter notebooks implementing the **LeNet-5 convolutional neural network architecture** using **TensorFlow/Keras** for:
