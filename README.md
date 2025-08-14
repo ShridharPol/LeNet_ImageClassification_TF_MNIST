@@ -9,22 +9,22 @@ These projects demonstrate model design, training workflows, and evaluation meth
 
 ---
 
-## 📁 Contents
+## Contents
 
 - `LeNet_MNIST.ipynb`: Implements LeNet on the MNIST dataset using TensorFlow and Keras
 - `LeNet_CIFAR-10.ipynb`: Extends LeNet to handle CIFAR-10 images with added preprocessing and optimization techniques
 
 ---
 
-## 🔧 Key Features
+## Key Features
 
-### ✅ MNIST Notebook
+### MNIST Notebook
 - LeNet-5 CNN for digit classification (28×28 grayscale images)
 - Data normalization and reshaping
 - Training loop with Keras fit method
 - Accuracy evaluation and test-time prediction on real input
 
-### ✅ CIFAR-10 Notebook
+### CIFAR-10 Notebook
 - Modified LeNet architecture for 32×32 RGB input
 - Uses `ImageDataGenerator` for augmentation
 - Optimizer experiments: Adam, RMSProp, SGD
@@ -32,7 +32,7 @@ These projects demonstrate model design, training workflows, and evaluation meth
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - CNN architecture design and limitations on complex datasets
 - Using optimizer choice and augmentation to improve training stability
 - Observing overfitting through curve behavior
@@ -40,7 +40,7 @@ These projects demonstrate model design, training workflows, and evaluation meth
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -49,7 +49,7 @@ These projects demonstrate model design, training workflows, and evaluation meth
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Clone the repo and open either notebook:
 
