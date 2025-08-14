@@ -7,6 +7,10 @@ This repository contains two well-documented Jupyter notebooks implementing the 
 
 These projects demonstrate model design, training workflows, and evaluation methods on datasets of increasing complexity.
 
+**Problem:** Understanding CNN fundamentals is essential before tackling complex medical imaging tasks.  
+**Solution:** Implemented LeNet-5 from scratch in TensorFlow/Keras for MNIST (digits) and CIFAR-10 (objects).  
+**Outcome:** Achieved >99% accuracy on MNIST and ~75% on CIFAR-10, demonstrating model adaptability from simple to complex datasets.
+
 ---
 
 ## Contents
